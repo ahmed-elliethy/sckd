@@ -1,1 +1,1 @@
-# sckd
+# Supervised Contrastive Knowledge Distillation
