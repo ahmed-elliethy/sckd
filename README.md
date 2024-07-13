@@ -3,7 +3,6 @@
 
 
 # License
-Copyright (c) 2024 Ahmed Elliethy.
 
 All rights reserved.
 
