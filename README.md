@@ -151,4 +151,5 @@ For any questions or inquiries, please reach out to:
   author={Elshazly, A., Elliethy, A. and Elshafey, M.A},
   journal={International Journal of Intelligent Engineering and Systems}
 }
+https://www.researchgate.net/publication/384568099_Supervised_Contrastive_Knowledge_Distillation
 ```
